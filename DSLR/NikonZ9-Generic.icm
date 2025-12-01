@@ -1,0 +1,7 @@
+# This is a placeholder ICM file for testing
+# Nikon Z9 Generic color profile
+[ICC_Profile]
+Name = Nikon Z9 Generic
+Description = Generic color profile for Nikon Z9
+ColorSpace = RGB
+ProfileClass = Display Device Profile

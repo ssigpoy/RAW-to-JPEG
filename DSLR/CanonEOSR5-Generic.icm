@@ -1,0 +1,7 @@
+# This is a placeholder ICM file for testing
+# Canon EOS R5 Generic color profile
+[ICC_Profile]
+Name = Canon EOS R5 Generic
+Description = Generic color profile for Canon EOS R5
+ColorSpace = RGB
+ProfileClass = Display Device Profile

@@ -1,0 +1,7 @@
+# This is a placeholder ICM file for testing
+# Sony A7R IV Generic color profile
+[ICC_Profile]
+Name = Sony A7R IV Generic
+Description = Generic color profile for Sony A7R IV
+ColorSpace = RGB
+ProfileClass = Display Device Profile
